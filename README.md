@@ -4,7 +4,8 @@ Various Unity project scirpts:
 
 > JUMP FORCE 
 
-Player is running on a never ending treadmill and has to jump spawned obstacles 
+Player is running on a never ending treadmill and has to jump spawned obstacles.
+
 FEATURES:
 - repeating background
 - player jump / double jump
@@ -21,6 +22,7 @@ FEATURES:
 
 > SPACE CANDY
 
-Part of a friends request, player is moving left to right in space catching falling space candies 
+Part of a friends request, player is moving left to right in space catching falling space candies.
+
 FEATURES:
 - TBA
