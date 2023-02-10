@@ -3,6 +3,7 @@ Various Unity project scirpts
 
 
 > JUMP FORCE 
+
 Player is running on a never ending treadmill and has to jump spawned obstacles 
 Features :
 - repeating background
